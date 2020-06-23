@@ -1,0 +1,32 @@
+Digital Innovation One - Bootcamp Global Fullstack
+
+Roteiro de Cursos
+
+01 - Bem-vindo à DIO - 1/1							OK
+02 - Lançamento Global Fullstack Developer - 1/1				OK
+03 - Lógica de programação essencial - 2/2					OK
+04 - Introdução ao Git e Controle de Versões - 3/3				OK
+05 - Introdução ao GitHub e comando para trabalhar em equipe - 1/6 
+06 - Criando um repositório para seus projetos inovadores - 0/5
+07 - Fundamentos de Arquitetura de Sistemas - 0/5
+08 - Introdução ao domain driven design e padrões de arquitetura - 0/1
+09 - Programação para internet com HTML5 e CSS3 - 0/8
+10 - Construindo páginas para internet com Bootstrap - 0/6
+11 - Arquitetura de Sistemas Avançado - 0/4
+12 - Programação para internet com JavaScript - 0/2
+13 - Introdução à Biblioteca JQuery - 0/2
+14 - JavaScript ES6 essencial - 0/4
+15 - Desafio prático: Recriando o jogo da cobrinha com o JavaScript - 0/1
+16 - Desenvolvimento avançado com JavaScript ES6 - 0/6
+17 - Introdução ao ReactJS - 0/3
+18 - Desenvolvimento de aplicação para internet com ReactJS - 0/4
+19 - Desafio de aplicações para internet com ReactJS - 0/4
+20 - Desafio prático: Como gerenciar o estado de uma aplicação React - 0/1
+21 - Práticas avançadas em projetos com ReactJS - 0/3
+22 - Projetos ágeis com SCRUM - 0/3
+23 - Conceitos e melhores práticas com bancos de dados PostgreSQL - 0/4
+24 - Introdução à programação com Python - 0/12
+25 - Desenvolvimento para Internet e Banco de Dados com Python e Django - 0/5
+26 - Desenvolvimento avançado Python com Flask e REST API - 0/7
+27 - Desafio prático: Introdução a Testes com o Flask - 0/1
+FIM
