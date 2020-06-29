@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name=viewpor content="width=device-width,initial-scale=1.0">
+        <title>Valor Padrão</title>
+    </head>
+    <body>
+        <form action="email@email.com" method="get">
+            <p><font face="calibri">Nome: <input type=text name="nome" size=25 maxlenght="50"></p>
+            
+            <p>Estado: <input type=text name="uf" size="2" value="sp"></font></p>
+            
+            <p>No. do cartão de crédito <input type=text name="num. do cartão" size="16"></p>
+            
+            <p>Senha: <input type=password name="senha" size="6"</p>
+            
+            <p> Selecione a bandeira do seu cartão: <br>
+                <input type=radio name="vi" checked>Visa<br>
+                <input type=radio name="mst"> Mastercard</p><br>
+                
+            <p>Selecione o horário de entrega: <br>
+                <input type="checkbox" name="horário 1" size="1"> 8h às 12h <br>
+                <input type="checkbox" name="horário 2" size="1"> 13h às 15h <br>
+                <input type="checkbox" name="horário 3" size="1"> 16h às 18h</p>
+            
+             <p>Endereço: <input type="text" name="end" size="30"></p>
+            
+             <p>Referência: <br>
+                <textarea name="ref" rows=2 cols=40></textarea> </p>
+
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+
+            <input type="hidden" name="cpf" value="verdadeiro">
+
+        </form>
+    </body>
+</html>
